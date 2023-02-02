@@ -1,2 +1,5 @@
 src/style.css
 src/index.js
+src/tests/test.js
+src/tests/test.html
+src/tests/test.css
